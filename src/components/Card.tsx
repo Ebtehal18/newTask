@@ -1,6 +1,6 @@
 // import React from "react";
 
-import { Col, ProgressBar } from "react-bootstrap";
+import {  ProgressBar } from "react-bootstrap";
 import { FaBed } from "react-icons/fa";
 
 // 
